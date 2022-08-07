@@ -1,0 +1,216 @@
+Uri: https://nft.tiffany.com/
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\index.htm
+Content Type: text/html
+
+Uri: https://nft.tiffany.com/favicon.ico
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://nft.tiffany.com/_next/static/css/5cfbec7c1b204321d5cb.css
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\css\5cfbec7c1b204321d5cb.css
+Content Type: text/css
+
+Uri: https://nft.tiffany.com/_next/static/css/4bfabd244a4c6743271f.css
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\css\4bfabd244a4c6743271f.css
+Content Type: text/css
+
+Uri: https://nft.tiffany.com/_next/static/css/5d7eec6630b48d5ab209.css
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\css\5d7eec6630b48d5ab209.css
+Content Type: text/css
+
+Uri: https://nft.tiffany.com/_next/static/chunks/main-98d7e048734f71c6598d.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\main-98d7e048734f71c6598d.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/webpack-ee235b46acb8bc8503e2.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\webpack-ee235b46acb8bc8503e2.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/framework.f1d98aa9091788261d3d.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\framework.f1d98aa9091788261d3d.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/061e6b60.ed06ec7a426ad48432ce.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\061e6b60.ed06ec7a426ad48432ce.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/764ae701.e3956219374033b05b28.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\764ae701.e3956219374033b05b28.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/0bdbe9d5f1f7e3e479e317a7ba5c7a6d61daaefd.b5db9fc5662356f23f2a.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\0bdbe9d5f1f7e3e479e317a7ba5c7a6d61daaefd.b5db9fc5662356f23f2a.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/1bcbeaf8aa0bb53e899f33e0db02cf768bc599ce.d178904ba314d010da54.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\1bcbeaf8aa0bb53e899f33e0db02cf768bc599ce.d178904ba314d010da54.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/2f25d7e8cc359a73d30e1d0ab76c4909f390088b.0f693db6e473e678cdef.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\2f25d7e8cc359a73d30e1d0ab76c4909f390088b.0f693db6e473e678cdef.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/ac07b829d57579c96f54e16f0959cbe7c86c0e1b.4f686c3f52d77a063a4b.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\ac07b829d57579c96f54e16f0959cbe7c86c0e1b.4f686c3f52d77a063a4b.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/63ca1987128676573703ea051a0f5830491d00de.b8da16d51aa9e1d21687.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\63ca1987128676573703ea051a0f5830491d00de.b8da16d51aa9e1d21687.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/2b7b5dd2ba88c78ef58184211b353a7be0def48b.866cd50b89314dc0dcfa.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\2b7b5dd2ba88c78ef58184211b353a7be0def48b.866cd50b89314dc0dcfa.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/d7396cc4908864a4e1e7e34d38b31ecfab72f861.88243e5a7bb9d081fbee.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\d7396cc4908864a4e1e7e34d38b31ecfab72f861.88243e5a7bb9d081fbee.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/25c47078cca573261493d8ef48fa79ec2fb6f413.873f963abc82f1908c92.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\25c47078cca573261493d8ef48fa79ec2fb6f413.873f963abc82f1908c92.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/9584174e45ddcba4941ba82645d364a66426dbe3.cbc6097c96b54fbbe056.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\9584174e45ddcba4941ba82645d364a66426dbe3.cbc6097c96b54fbbe056.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/f2d0bc173e5864eb5a9a54d4dda446ff32dc0b39.897b1c4be1d059956b34.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\f2d0bc173e5864eb5a9a54d4dda446ff32dc0b39.897b1c4be1d059956b34.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/70caa55883671e406b87422c81e14ed28b32b606.01e560a0eae7ede60a3e.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\70caa55883671e406b87422c81e14ed28b32b606.01e560a0eae7ede60a3e.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/pages/_app-1f798ad97093534db888.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\pages\_app-1f798ad97093534db888.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/279cb5da14cd412d834fa3102a4906abba904474.325a84e1185aa8ad0a19.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\279cb5da14cd412d834fa3102a4906abba904474.325a84e1185aa8ad0a19.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/chunks/pages/index-24095d34b637216bbf1a.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\pages\index-24095d34b637216bbf1a.js
+Content Type: application/javascript
+
+Uri: https://chain.com/
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\index-1.htm
+Content Type: text/html
+
+Uri: https://nft.tiffany.com/faq/
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\faq\index.htm
+Content Type: text/html
+
+Uri: https://nft.tiffany.com/assets/menu.svg
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\assets\menu.svg
+Content Type: image/svg+xml
+
+Uri: https://nft.tiffany.com/assets/logo.svg
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\assets\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.chain.com/nftiff_cadence/NFT_Teaser_1x1.mp4
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\nftiff_cadence\NFT_Teaser_1x1.mp4
+Content Type: video/mp4
+
+Uri: https://nft.tiffany.com/assets/soundoff.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\assets\soundoff.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/assets/footer-logo.svg
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\assets\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://nft.tiffany.com/_next/static/chunks/polyfills-3fa9f7fa683372911569.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\polyfills-3fa9f7fa683372911569.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/SdaMOmK1vtHAhuRLvQ92Y/_buildManifest.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\SdaMOmK1vtHAhuRLvQ92Y\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/_next/static/SdaMOmK1vtHAhuRLvQ92Y/_ssgManifest.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\SdaMOmK1vtHAhuRLvQ92Y\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-NMGHCPS
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\ns.html
+Content Type: text/html
+
+Uri: https://nft.tiffany.com/static/fonts/Baskerville/Baskerville-BT-Roman.ttf
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\static\fonts\Baskerville\Baskerville-BT-Roman.ttf
+Content Type: application/octet-stream
+
+Uri: https://nft.tiffany.com/static/fonts/SFPro/SFPRODISPLAYREGULAR.otf
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\static\fonts\SFPro\SFPRODISPLAYREGULAR.otf
+Content Type: application/octet-stream
+
+Uri: https://nft.tiffany.com/static/fonts/SterlingDisplay/SterlingDisplay-Roman.ttf
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\static\fonts\SterlingDisplay\SterlingDisplay-Roman.ttf
+Content Type: application/octet-stream
+
+Uri: https://nft.tiffany.com/_next/static/css/d3a06b90dd74080858c9.css
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\css\d3a06b90dd74080858c9.css
+Content Type: text/css
+
+Uri: https://nft.tiffany.com/_next/static/chunks/pages/faq-9bcb0d53db2d2b70aa02.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\_next\static\chunks\pages\faq-9bcb0d53db2d2b70aa02.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/cdn-cgi/l/email-protection
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://nft.tiffany.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://nft.tiffany.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://nft.tiffany.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Users\kosti\Desktop\nft.tiffany.com\5xx-error-landing\index.htm
+Content Type: text/html
+
